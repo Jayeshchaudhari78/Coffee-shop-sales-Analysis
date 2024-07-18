@@ -2,7 +2,7 @@
 ## Project Overview
 The objective of this project is to analyze the sales data of a coffee shop to gain insights into sales performance, identify trends, and optimize business strategies. The analysis involves data transformation, calculation of key metrics, and visualization of sales trends using Microsoft Excel.
 
-**Data Source**
+**Data Source:**:
 The dataset used for this analysis was downloaded from Mave Analytics.
 
 **Analysis Summary**
